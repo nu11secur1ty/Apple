@@ -1,2 +1,2 @@
 # fix s0ft 
-- - - fr0m tenorshare.com
+- - - fr0m https://www.tenorshare.com/
